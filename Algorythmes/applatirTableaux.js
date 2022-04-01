@@ -1,6 +1,6 @@
 function aplatisCeTableau(arr) {
 
-    var tableauAplati = [];
+    let tableauAplati = [];
 
     function aplatir(arg) {
 
