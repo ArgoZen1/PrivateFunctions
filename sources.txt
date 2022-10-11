@@ -1,0 +1,3 @@
+https://www.patterns.dev/ => pour les design patterns 
+https://blog.mayank.co/better-scrolling-through-modern-css => faire une scroll bar moderne
+https://dev.to/zeeshanhshaheen/design-patterns-in-javascript-1pgm => pour les design patterns 
