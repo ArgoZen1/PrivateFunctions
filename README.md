@@ -7,13 +7,13 @@
 
 - 🌱 j'apprends actuellement **JEST, Design Pattern, algorithmes et React / Redux**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://ares-romain.com/](https://ares-romain.com/)
+- 👨‍💻 Tous mes projets sont disponibles sur https://ares-romain.com/
 
 - 💬 Competences **HTML, CSS, JS, React, accessibilité, SEO**
 
 - 📫 Comment me joindre **argolys@outlook.com**
 
-- 📄 Connaître mes expériences [[in/romain-ares](in/romain-ares)](https://www.linkedin.com/in/romain-ares/)
+- 📄 Connaître mes expériences https://www.linkedin.com/in/romain-ares/
 
 - ⚡ Fait amusant **Je suis un bout en train**
 
