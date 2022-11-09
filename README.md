@@ -13,7 +13,7 @@
 
 - 📫 Comment me joindre **argolys@outlook.com**
 
-- 📄 Connaître mes expériences [in/romain-ares](in/romain-ares)
+- 📄 Connaître mes expériences [[in/romain-ares](in/romain-ares)](https://www.linkedin.com/in/romain-ares/)
 
 - ⚡ Fait amusant **Je suis un bout en train**
 
